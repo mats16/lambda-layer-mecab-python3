@@ -1,0 +1,1 @@
+# lambda-layer-mecab-python3
